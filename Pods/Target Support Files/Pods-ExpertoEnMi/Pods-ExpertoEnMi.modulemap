@@ -1,0 +1,6 @@
+framework module Pods_ExpertoEnMi {
+  umbrella header "Pods-ExpertoEnMi-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08C9E4313F8D254E31759F7C /* Pods_ExpertoEnMi_ExpertoEnMiUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 800066521BDFBEF5E05F7CD5 /* Pods_ExpertoEnMi_ExpertoEnMiUITests.framework */; };
+		14A75CFEA9CDF983C00F0CA7 /* Pods_ExpertoEnMiTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98DB30E09635EF806C47E2 /* Pods_ExpertoEnMiTests.framework */; };
 		2945784C26064F0500910A57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945784B26064F0500910A57 /* AppDelegate.swift */; };
 		2945784E26064F0500910A57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945784D26064F0500910A57 /* SceneDelegate.swift */; };
 		2945785026064F0500910A57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945784F26064F0500910A57 /* ViewController.swift */; };
@@ -15,6 +17,7 @@
 		2945785826064F0700910A57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2945785626064F0700910A57 /* LaunchScreen.storyboard */; };
 		2945786326064F0800910A57 /* ExpertoEnMiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945786226064F0800910A57 /* ExpertoEnMiTests.swift */; };
 		2945786E26064F0800910A57 /* ExpertoEnMiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945786D26064F0800910A57 /* ExpertoEnMiUITests.swift */; };
+		504C8473D0CEF091DCD21B53 /* Pods_ExpertoEnMi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7832B5222080F62D93C8C050 /* Pods_ExpertoEnMi.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		12190396D92AEBFD535782B5 /* Pods-ExpertoEnMi-ExpertoEnMiUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpertoEnMi-ExpertoEnMiUITests.debug.xcconfig"; path = "Target Support Files/Pods-ExpertoEnMi-ExpertoEnMiUITests/Pods-ExpertoEnMi-ExpertoEnMiUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		1823E17A34DEF1D77ADDBEF3 /* Pods-ExpertoEnMi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpertoEnMi.release.xcconfig"; path = "Target Support Files/Pods-ExpertoEnMi/Pods-ExpertoEnMi.release.xcconfig"; sourceTree = "<group>"; };
 		2945784826064F0500910A57 /* ExpertoEnMi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpertoEnMi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2945784B26064F0500910A57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2945784D26064F0500910A57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +54,13 @@
 		2945786926064F0800910A57 /* ExpertoEnMiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExpertoEnMiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2945786D26064F0800910A57 /* ExpertoEnMiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpertoEnMiUITests.swift; sourceTree = "<group>"; };
 		2945786F26064F0800910A57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		442CBFA381C22B80A45DA5E0 /* Pods-ExpertoEnMi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpertoEnMi.debug.xcconfig"; path = "Target Support Files/Pods-ExpertoEnMi/Pods-ExpertoEnMi.debug.xcconfig"; sourceTree = "<group>"; };
+		46CCE4B047B596D23C4F9541 /* Pods-ExpertoEnMi-ExpertoEnMiUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpertoEnMi-ExpertoEnMiUITests.release.xcconfig"; path = "Target Support Files/Pods-ExpertoEnMi-ExpertoEnMiUITests/Pods-ExpertoEnMi-ExpertoEnMiUITests.release.xcconfig"; sourceTree = "<group>"; };
+		607E55E819F7637A05F49118 /* Pods-ExpertoEnMiTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpertoEnMiTests.debug.xcconfig"; path = "Target Support Files/Pods-ExpertoEnMiTests/Pods-ExpertoEnMiTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7078739702EBF5E4D60D26B3 /* Pods-ExpertoEnMiTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExpertoEnMiTests.release.xcconfig"; path = "Target Support Files/Pods-ExpertoEnMiTests/Pods-ExpertoEnMiTests.release.xcconfig"; sourceTree = "<group>"; };
+		7832B5222080F62D93C8C050 /* Pods_ExpertoEnMi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExpertoEnMi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		800066521BDFBEF5E05F7CD5 /* Pods_ExpertoEnMi_ExpertoEnMiUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExpertoEnMi_ExpertoEnMiUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD98DB30E09635EF806C47E2 /* Pods_ExpertoEnMiTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExpertoEnMiTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				504C8473D0CEF091DCD21B53 /* Pods_ExpertoEnMi.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14A75CFEA9CDF983C00F0CA7 /* Pods_ExpertoEnMiTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08C9E4313F8D254E31759F7C /* Pods_ExpertoEnMi_ExpertoEnMiUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +98,8 @@
 				2945786126064F0800910A57 /* ExpertoEnMiTests */,
 				2945786C26064F0800910A57 /* ExpertoEnMiUITests */,
 				2945784926064F0500910A57 /* Products */,
+				AAC48609A248F5D72E098170 /* Pods */,
+				EF9B4422CD270B287E0205F3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +145,30 @@
 			path = ExpertoEnMiUITests;
 			sourceTree = "<group>";
 		};
+		AAC48609A248F5D72E098170 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				442CBFA381C22B80A45DA5E0 /* Pods-ExpertoEnMi.debug.xcconfig */,
+				1823E17A34DEF1D77ADDBEF3 /* Pods-ExpertoEnMi.release.xcconfig */,
+				12190396D92AEBFD535782B5 /* Pods-ExpertoEnMi-ExpertoEnMiUITests.debug.xcconfig */,
+				46CCE4B047B596D23C4F9541 /* Pods-ExpertoEnMi-ExpertoEnMiUITests.release.xcconfig */,
+				607E55E819F7637A05F49118 /* Pods-ExpertoEnMiTests.debug.xcconfig */,
+				7078739702EBF5E4D60D26B3 /* Pods-ExpertoEnMiTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		EF9B4422CD270B287E0205F3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7832B5222080F62D93C8C050 /* Pods_ExpertoEnMi.framework */,
+				800066521BDFBEF5E05F7CD5 /* Pods_ExpertoEnMi_ExpertoEnMiUITests.framework */,
+				CD98DB30E09635EF806C47E2 /* Pods_ExpertoEnMiTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,6 +176,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2945787226064F0800910A57 /* Build configuration list for PBXNativeTarget "ExpertoEnMi" */;
 			buildPhases = (
+				FB2F05EF6869260E3FC74E9D /* [CP] Check Pods Manifest.lock */,
 				2945784426064F0500910A57 /* Sources */,
 				2945784526064F0500910A57 /* Frameworks */,
 				2945784626064F0500910A57 /* Resources */,
@@ -152,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2945787526064F0800910A57 /* Build configuration list for PBXNativeTarget "ExpertoEnMiTests" */;
 			buildPhases = (
+				25000DC1CD8B108577108458 /* [CP] Check Pods Manifest.lock */,
 				2945785A26064F0800910A57 /* Sources */,
 				2945785B26064F0800910A57 /* Frameworks */,
 				2945785C26064F0800910A57 /* Resources */,
@@ -170,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2945787826064F0800910A57 /* Build configuration list for PBXNativeTarget "ExpertoEnMiUITests" */;
 			buildPhases = (
+				A8619987579EC9BAC8B062AD /* [CP] Check Pods Manifest.lock */,
 				2945786526064F0800910A57 /* Sources */,
 				2945786626064F0800910A57 /* Frameworks */,
 				2945786726064F0800910A57 /* Resources */,
@@ -252,6 +296,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		25000DC1CD8B108577108458 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ExpertoEnMiTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A8619987579EC9BAC8B062AD /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ExpertoEnMi-ExpertoEnMiUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FB2F05EF6869260E3FC74E9D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ExpertoEnMi-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2945784426064F0500910A57 /* Sources */ = {
@@ -433,6 +546,7 @@
 		};
 		2945787326064F0800910A57 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 442CBFA381C22B80A45DA5E0 /* Pods-ExpertoEnMi.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -452,6 +566,7 @@
 		};
 		2945787426064F0800910A57 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1823E17A34DEF1D77ADDBEF3 /* Pods-ExpertoEnMi.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -471,6 +586,7 @@
 		};
 		2945787626064F0800910A57 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 607E55E819F7637A05F49118 /* Pods-ExpertoEnMiTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -493,6 +609,7 @@
 		};
 		2945787726064F0800910A57 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7078739702EBF5E4D60D26B3 /* Pods-ExpertoEnMiTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -515,6 +632,7 @@
 		};
 		2945787926064F0800910A57 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 12190396D92AEBFD535782B5 /* Pods-ExpertoEnMi-ExpertoEnMiUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -535,6 +653,7 @@
 		};
 		2945787A26064F0800910A57 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 46CCE4B047B596D23C4F9541 /* Pods-ExpertoEnMi-ExpertoEnMiUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
